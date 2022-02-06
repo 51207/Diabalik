@@ -1,0 +1,10 @@
+D:\c# application\DiaBalik\DiaBalik\bin\Debug\DiaBalik.exe.config
+D:\c# application\DiaBalik\DiaBalik\bin\Debug\DiaBalik.exe
+D:\c# application\DiaBalik\DiaBalik\bin\Debug\DiaBalik.pdb
+D:\c# application\DiaBalik\DiaBalik\obj\Debug\DiaBalik.Form1.resources
+D:\c# application\DiaBalik\DiaBalik\obj\Debug\DiaBalik.Properties.Resources.resources
+D:\c# application\DiaBalik\DiaBalik\obj\Debug\DiaBalik.csproj.GenerateResource.cache
+D:\c# application\DiaBalik\DiaBalik\obj\Debug\DiaBalik.csproj.CoreCompileInputs.cache
+D:\c# application\DiaBalik\DiaBalik\obj\Debug\DiaBalik.exe
+D:\c# application\DiaBalik\DiaBalik\obj\Debug\DiaBalik.pdb
+D:\c# application\DiaBalik\DiaBalik\obj\Debug\DiaBalik.csproj.AssemblyReference.cache
